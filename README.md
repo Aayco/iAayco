@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **alamerdeku@gmail.com**
 
-- 📄 My Channel Youtube [https://github.com/codes-team](https://github.com/codes-team)
+- 📄 My Channel Youtube [https://www.youtube.com/codes-team](https://www.youtube.com/codes-team)
 
 - ⚡ Fun fact **I Think Iam Funny**
 
