@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codes-team" alt="codes-team" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/coder_amer" target="blank"><img src="https://img.shields.io/twitter/follow/iam_alamer?logo=twitter&style=for-the-badge" alt="iam_alamer" /></a> </p>
+<p align="left"> <a href="https://twitter.com/coder_amer" target="blank"><img src="https://img.shields.io/twitter/follow/coder_amer?logo=twitter&style=for-the-badge" alt="coder_amer" /></a> </p>
 
 - 🔭 I’m currently programmer on **python**
 
