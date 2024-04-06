@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codes-team" alt="codes-team" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/iam_alamer" target="blank"><img src="https://img.shields.io/twitter/follow/iam_alamer?logo=twitter&style=for-the-badge" alt="iam_alamer" /></a> </p>
+<p align="left"> <a href="https://twitter.com/coder_amer" target="blank"><img src="https://img.shields.io/twitter/follow/iam_alamer?logo=twitter&style=for-the-badge" alt="iam_alamer" /></a> </p>
 
 - 🔭 I’m currently programmer on **python**
 
 - 🌱 I’m currently learning **courses**
 
-- 👯 I’m looking to collaborate on **decode**
+- 👯 I’m looking to collaborate on **Ai**
 
-- 🤝 I’m looking for help with **decompiler**
+- 🤝 I’m looking for help with **Reverse engineering**
 
 - 👨‍💻 All of my projects are available at [https://github.com/codes-team](https://github.com/codes-team)
 
@@ -29,8 +29,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/iam_alamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iam_alamer" height="30" width="40" /></a>
-<a href="https://instagram.com/codes_team" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codes_team" height="30" width="40" /></a>
+<a href="https://twitter.com/coder_amer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iam_alamer" height="30" width="40" /></a>
+<a href="https://instagram.com/coder_amer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codes_team" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/codes_team" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codes_team" height="30" width="40" /></a>
 </p>
 
