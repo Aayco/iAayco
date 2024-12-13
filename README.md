@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm 𝘼𝙈𝙀𝙍</h1>
+<h1 align="center">Hi 👋, I'm Aayco</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codes-team&label=Profile%20views&color=0e75b6&style=flat" alt="codes-team" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codes-team" alt="codes-team" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/coder_amer" target="blank"><img src="https://img.shields.io/twitter/follow/coder_amer?logo=twitter&style=for-the-badge" alt="coder_amer" /></a> </p>
 
 - 🔭 I’m currently programmer on **python**
 
@@ -15,17 +13,9 @@
 
 - 🤝 I’m looking for help with **Reverse engineering**
 
-- 👨‍💻 All of my projects are available at [https://github.com/codes-team](https://github.com/codes-team)
+- 👨‍💻 All of my projects are available at [https://github.com/iAayco](https://github.com/iAayco)
 
-- 📝 My Channel Telegram [https://t.me/codes_team](https://t.me/codes_team)
-
-- 💬 Ask me about **decode**
-
-- 📫 How to reach me **alamerdeku@gmail.com**
-
-- 📄 My Channel Youtube [https://www.youtube.com/codes-team](https://www.youtube.com/codes-team)
-
-- ⚡ Fun fact **I Think Iam Funny**
+- 📝 My Account Telegram [https://t.me/Aayco](https://t.me/Aayco)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
