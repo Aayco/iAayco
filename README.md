@@ -17,6 +17,25 @@
 
 - 📝 My Account Telegram [https://t.me/Aayco](https://t.me/Aayco)
 
+<h3 align="left">Python Coder</h3>
+<pre><code>
+class coder:
+    def coding(self):
+        return print("I'm coding...")
+    def eating(self):
+        return print("I'm eating...")
+    def drinking(self):
+        return print("I'm drinking...")
+    def alive(self):
+        return True
+coder = coder()
+while coder.alive():
+    coder.coding()
+    coder.eating()
+    coder.drinking()
+
+</code></pre>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/coder_amer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iam_alamer" height="30" width="40" /></a>
