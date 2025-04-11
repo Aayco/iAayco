@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/iAayco](https://github.com/iAayco)
 
-- 📝 My Account Telegram [https://t.me/Aayco](https://t.me/Aayco)
+- 📝 My Account Telegram [click here](https://t.me/acrys)
 
 <h3 align="left">Python Coder</h3>
 <pre><code>
